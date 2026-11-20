@@ -1,9 +1,7 @@
 
 # 🎨 پلاگین تغییر فونت فارسی Oracle APEX | APEX360 Persian Font Switcher
 
-<p align="center">
-  <img src="https://apex360.ir/wp-content/uploads/2026/11/persian_font_switcher_plugin_options_v1.png" alt="تنظیمات پلاگین APEX360 Persian Font Switcher" width="377" />
-</p>
+![APEX360 Persian Font Switcher](images/apex360_persian_font_switcher_banner-1.png)
 
 ## معرفی پلاگین
 
@@ -82,7 +80,6 @@
 
 ابتدا فایل نصب پلاگین را از لینک زیر دریافت کنید:
 
-[دانلود APEX360 Persian Font Switcher](https://apex360.ir/wp-content/uploads/2026/11/apex360_persian_font_switcher_v1.sql)
 
 ### مرحله دوم: نصب پلاگین در Oracle APEX
 
@@ -116,6 +113,8 @@ Global Page محلی برای تعریف تنظیمات و Dynamic Actionهای�
 
 1. روی بخش True Actions کلیک راست کنید.
 2. گزینه **Create True Action** را انتخاب کنید.
+
+[دانلود APEX360 Persian Font Switcher](images/persian_font_switcher_global_page.png)
 
 ### مرحله ششم: انتخاب پلاگین
 
@@ -162,11 +161,7 @@ Global Page محلی برای تعریف تنظیمات و Dynamic Actionهای�
 
 ### تصویر تنظیمات پلاگین
 
-![تنظیمات پلاگین APEX360 Persian Font Switcher](https://apex360.ir/wp-content/uploads/2026/11/persian_font_switcher_plugin_options_v1.png)
-
-### تصویر تنظیم Dynamic Action در Global Page
-
-![تنظیم Dynamic Action در Global Page](https://apex360.ir/wp-content/uploads/2026/11/persian_font_switcher_global_page.png)
+![تنظیمات پلاگین APEX360 Persian Font Switcher](images/persian_font_switcher_plugin_options_v1.png)
 
 ---
 

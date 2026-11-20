@@ -114,7 +114,7 @@ Global Page محلی برای تعریف تنظیمات و Dynamic Actionهای�
 1. روی بخش True Actions کلیک راست کنید.
 2. گزینه **Create True Action** را انتخاب کنید.
 
-[دانلود APEX360 Persian Font Switcher](images/persian_font_switcher_global_page.png)
+![APEX360 Persian Font Switcher](images/persian_font_switcher_global_page.png)
 
 ### مرحله ششم: انتخاب پلاگین
 

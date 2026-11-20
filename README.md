@@ -1,7 +1,7 @@
 
 # 🎨 پلاگین تغییر فونت فارسی Oracle APEX | APEX360 Persian Font Switcher
 
-![APEX360 Persian Font Switcher](images/apex360_persian_font_switcher_banner-1.png)
+<p align="center"><img src="images/apex360_persian_font_switcher_banner-1.png" alt="APEX360 Persian Font Switcher" width="100%" /></p>
 
 ## معرفی پلاگین
 
